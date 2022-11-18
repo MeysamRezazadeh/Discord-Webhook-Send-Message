@@ -1,6 +1,10 @@
 <!-- https://github.com/MeysamRezazadeh  -->
 <?php
 
+/*
+ * TO GET EMOJIS AND MEMBERS
+ */
+
 // PUT YOUR BOT TOKEN HERE
 $TOKEN = "";
 
